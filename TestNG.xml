@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="inetBankingV1">
+<test name="Banking App Test">
+<classes>
+<class name="com.inetabanking.pageObjects.LoginPage">
+
+
+
+</class>
+
+</classes>
+</test>
+</suite>
